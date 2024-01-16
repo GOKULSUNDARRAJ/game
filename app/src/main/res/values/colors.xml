@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#fed519</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#431d56</color>
+    <color name="buttongreen">#85c12b</color>
+    <color name="black1">#2f2b2c</color>
+    <color name="wood">#a0522d</color>
+    <color name="lightwood">#f1d5b9</color>
+    <color name="darkwood">#5c1d0c</color>
+</resources>
